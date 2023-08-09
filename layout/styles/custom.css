@@ -1,0 +1,264 @@
+/*Sayan--------------------------------------------------------------------------------------------------------*/
+.col-lg-3 {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  padding: 14px;
+  box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+  height: 310px;
+  margin-left: 66px;
+  margin-top: 37px;
+  background: white;
+  
+  
+}
+
+.grid-img1 {
+  /* width: 100%; */
+  height: 900px;
+  width: 252px;
+  object-fit: cover;
+  object-position: bottom;
+  padding: 4px;
+  cursor: pointer;
+
+}
+.grid-img2 {
+  /* width: 100%; */
+  height: 900px;
+  width: 252px;
+  object-fit: cover;
+  object-position: bottom;
+  padding: 4px;
+  cursor: pointer;
+
+}
+.grid-img3 {
+  /* width: 100%; */
+  height: 900px;
+  width: 252px;
+  object-fit: cover;
+  object-position: bottom;
+  padding: 4px;
+  cursor: pointer;
+
+}
+
+div.column.is-half {
+  width: 50%;
+}
+
+.col-lg-3:hover img {
+  cursor: pointer;
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
+}
+
+.col-lg-3 img {
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+#news {
+  height: 348px;
+}
+
+@media screen and (max-width: 450px) {
+  .col-lg-3 {
+    height: 275px;
+    width: 82.33%;
+    margin-left: 14%;
+
+  }
+  
+  #news {
+    height: 357px;
+    margin-left: 16px;
+  }
+  .grid-img {
+    margin-left: 10px;
+    height: 150px;
+  }
+  th {
+    text-align: center !important;
+  }
+  .mass_input{
+    width: 100px !important;
+    color: #fff;
+    border: 2px solid rgb(179, 179, 179);
+    font-size: 7px;
+    padding: 10px;
+    
+  }
+  form input {
+    width: 301px !important;
+    background: transparent;
+    
+    
+  }
+  .hide1{
+      font-size: 13px !important;
+  }
+  .hide2{
+      font-size: 13px !important;
+  }
+  .hide3{
+      font-size: 13px !important;
+  }
+  .container{
+    padding-left: 0px;
+  }
+ 
+ 
+}
+
+/* Rocket page css */
+
+tbody tr td {
+  padding: 10px;
+}
+
+pre {
+  font-size: 20px !important;
+}
+
+/* Contact css */
+
+.col-md-6 {
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+form{
+  padding: 36px;
+}
+
+form input {
+  width: 556px;
+  background: transparent;
+  
+  
+}
+
+.three_field{
+  display: flex;
+    flex-direction: row;
+    margin-top: 19px;
+    margin-bottom: 19px;
+}
+
+.mass_input{
+  width: 185px;
+  color: #fff;
+  border: 2px solid rgb(179, 179, 179);
+}
+
+.form_names{
+  text-align: start;
+  color: #fff;
+  
+}
+
+#form1__bg{
+  background-color: #002244;
+  height: 511px;
+}
+#form__bg{
+  background-color: #002244 ;
+  height: 511px;
+}
+.inputs{
+  border: 2px solid rgb(179, 179, 179);
+}
+
+.hide1{
+  box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+  text-align: center;
+}
+.hide2{
+  box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+  text-align: center;
+}
+.hide3{
+  box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+  text-align: center;
+}
+.hide1:hover {
+ background-color: rgb(204, 197, 197) !important;
+ cursor: pointer;
+}
+.hide2:hover {
+  background-color: rgb(204, 197, 197) !important;
+  cursor: pointer;
+}
+.hide3:hover {
+  background-color: rgb(204, 197, 197) !important;
+  cursor: pointer;
+}
+
+.hide1:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.hide2:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.hide3:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.rocket_anim:hover img{
+  cursor: pointer;
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.grid-img2:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
+}
+.grid-img3:hover {
+  cursor: pointer;
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
+}
+
+/* teams css */
+
+.modal-body {
+  text-align: center !important;
+}
+
+thead tr{
+  font-size: 31px;
+}
+
+
+/* captions css */
+
+.caption h4{
+  font-size: 12px !important;
+  padding: 12px;
+  
+}
+
+.mybutton {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.{
+ 
+}
+
+
+
+
